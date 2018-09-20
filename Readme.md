@@ -10,8 +10,8 @@ In this project, Tweepy will be used to query Twitter's API for additional data 
 
 Data wrangling in this project consists of:
 
-    - Gathering data
-    - Assessing data
-    - Cleaning data
+    Gathering data
+    Assessing data
+    Cleaning data
 
 In addtion to storing, analyzing, and visualizing the wrangled data. 
