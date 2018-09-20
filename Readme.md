@@ -1,4 +1,4 @@
-#Analyzing Tweets from WeRateDogs twitter account for Udacity Nanodegree 
+# Analyzing Tweets from WeRateDogs twitter account for Udacity Nanodegree Project
 
 Real-world data rarely comes clean. Using Python and its libraries, in this project data wrangling processes will be applied to gather data from a variety of sources and in a variety of formats, assess its quality and tidiness, then clean it.
 
